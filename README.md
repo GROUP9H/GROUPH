@@ -31,7 +31,7 @@ Urutare Youth Center Website
  3. Commit your changes: git commit -m "Add feature"
  4. Push and submit a Pull Request
  Contact
- If you have any questions or would like to support the center, please reach out:- Email: urutareyouthcenter@gmail.com- Location: MUHANGA District, Rwanda- Website: www.urutareyouthcenter.org
+ If you have any questions or would like to support the center, please reach out:- Email: urutareyouthcenter@gmail.com- Location: MUHANGA District, Rwanda- Website https://urutareyouthcenter.wordpress.com/
 License
  This project is open-source and available under the MIT License.
  Acknowledgments
