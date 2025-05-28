@@ -17,7 +17,6 @@ Urutare Youth Center Website
  Getting Started
  If youre a developer or contributor who wants to work on this project:
  1. Clone the Repository
- git clone https://github.com/yourusername/urutare-youth-center.git
  cd urutare-youth-center
 2. Install Dependencies
  npm install  OR  pip install -r requirements.txt
